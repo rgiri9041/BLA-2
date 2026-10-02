@@ -65,3 +65,11 @@ The Amazon RDS presentation focuses on Amazon Relational Database Service and it
 
 Amazon RDS provides a managed environment for running relational databases in AWS.
 
+
+If you want to check video then
+YouTube Link:
+Amazon OpenSearch: https://youtu.be/9D72dwOWTy8
+Amazon RDS: https://youtu.be/NKMmMHT_a6E
+Amazon Glue: https://youtu.be/pmZ6kXnA56k
+
+LinkedIn Link: https://www.linkedin.com/in/raj-kumar-giri-348763192/
